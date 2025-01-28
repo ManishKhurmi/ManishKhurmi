@@ -2,6 +2,7 @@
 
 ## About Me 
 
+```python
 manish_khurmi = {
     'name': 'Manish Khurmi',
     'location': 'London, UK',
@@ -11,7 +12,7 @@ manish_khurmi = {
     'favourite_books': [{'Flow: The Psychology of Optimal Experience': 'M. Csikszentmihalyi'}, 
                         {'Adventures of Huckleberry Finn' : 'M. Twain'},
                         {'Proofs: A Long-Form Mathematics Textbook': 'J. Cummings'}]
-
+```
 I have a BSc(Hons) Mathematics & Economics. I'm now a Data Scientist & Co-Founder at SandboxAI. 
 
 Here at SandboxAI I'm working with my team to create GenAI solutionsto automate environment reports for the UK GOV. I'm interested in all apsects of Data Science, with a particular focus on the theory, time series analysis, leveraging techniques from machine learning and pure mathematics to solve real world problems. 

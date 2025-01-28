@@ -22,7 +22,7 @@ Here at SandboxAI I'm working with my team to create GenAI solutionsto automate 
 <br>
 [The Hangman Game](https://github.com/tbhowe/Louis-Wilson-Template-Correlation-Matlab](https://github.com/ManishKhurmi/hangman116)
 <br>
-
+[Identifying Hippocampal Replay in REM Sleep](https://github.com/tbhowe/Louis-Wilson-Template-Correlation-Matlab)
 <!--
 **ManishKhurmi/ManishKhurmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

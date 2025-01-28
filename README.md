@@ -1,6 +1,6 @@
 # Hi! I'm Manish 
 
-## About Me 
+## About Me 
 
 ```python
 manish_khurmi = {

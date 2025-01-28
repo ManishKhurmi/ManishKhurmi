@@ -13,7 +13,7 @@ manish_khurmi = {
                         {'Adventures of Huckleberry Finn' : 'M. Twain'},
                         {'Proofs: A Long-Form Mathematics Textbook': 'J. Cummings'}]
 ```
-My career spans across working in a Climate Tech Startup and in Investment Banking. I'm now a Data Scientist & Co-Founder at SandboxAI. 
+My career spans across working in a Climate Tech Startup and in Investment Banking. Currently I am a Data Scientist & Co-Founder at SandboxAI. 
 
 Here at SandboxAI I'm working with my team to create GenAI solutionsto automate environment reports for the UK GOV. I'm interested in all apsects of Data Science, with a particular focus on the theory, time series analysis, leveraging techniques from machine learning and pure mathematics to solve real world problems. 
 

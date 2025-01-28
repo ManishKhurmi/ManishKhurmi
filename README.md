@@ -18,9 +18,9 @@ I have a BSc(Hons) Mathematics & Economics. I'm now a Data Scientist & Co-Founde
 Here at SandboxAI I'm working with my team to create GenAI solutionsto automate environment reports for the UK GOV. I'm interested in all apsects of Data Science, with a particular focus on the theory, time series analysis, leveraging techniques from machine learning and pure mathematics to solve real world problems. 
 
 ## Some of my Favourite Projects: 
-[Exploratory Data Analysis in the Manufacturing Process ]([https://github.com/tbhowe/fish_ID_VIT](https://github.com/ManishKhurmi/exploratory-data-analysis---the-manufacturing-process768))
+[Exploratory Data Analysis in the Manufacturing Process ](https://github.com/tbhowe/fish_ID_VIT](https://github.com/ManishKhurmi/exploratory-data-analysis---the-manufacturing-process768)
 <br>
-[The Hangman Game]([https://github.com/tbhowe/Louis-Wilson-Template-Correlation-Matlab](https://github.com/ManishKhurmi/hangman116))
+[The Hangman Game](https://github.com/tbhowe/Louis-Wilson-Template-Correlation-Matlab](https://github.com/ManishKhurmi/hangman116)
 <br>
 
 <!--

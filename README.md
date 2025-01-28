@@ -22,7 +22,6 @@ Here at SandboxAI I'm working with my team to create GenAI solutionsto automate 
 [The Hangman Game]([https://github.com/tbhowe/Louis-Wilson-Template-Correlation-Matlab](https://github.com/ManishKhurmi/hangman116))
 <br>
 
-- 
 <!--
 **ManishKhurmi/ManishKhurmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

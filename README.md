@@ -13,11 +13,9 @@ manish_khurmi = {
                         {'Adventures of Huckleberry Finn' : 'M. Twain'},
                         {'Proofs: A Long-Form Mathematics Textbook': 'J. Cummings'}]
 ```
-My career spans across working in a Climate Tech Startup and in Investment Banking. Currently I am a Data Scientist & Co-Founder at SandboxAI. 
+My career in Data Science spans across working in a Climate Tech Startup and in Investment Banking. 
 
-Here at SandboxAI I'm working with my team to create GenAI solutionsto automate environment reports for the UK GOV. I'm interested in all apsects of Data Science, with a particular focus on the theory, time series analysis, leveraging techniques from machine learning and pure mathematics to solve real world problems. 
-
-
+Currently I am a Data Scientist & Co-Founder at SandboxAI. I'm working with my team to create GenAI solutions to automate environment reports for the UK GOV. I'm interested in all apsects of Data Science, with a particular focus on the theory, time series analysis, leveraging techniques from machine learning and pure mathematics to solve real world problems. 
 
 ## Some of my Favourite Projects: 
 [Exploratory Data Analysis in the Manufacturing Process](https://github.com/ManishKhurmi/exploratory-data-analysis---the-manufacturing-process768)
